@@ -2,6 +2,8 @@
 
 A Snake game that plays itself on an ESP32-C3 with a tiny 72x40 OLED. The snake never crashes. It fills the whole board in about 9 minutes, then shows a win screen with the time and the best time, and starts again.
 
+![The snake playing itself on the board's 0.42" OLED](docs/demo.gif)
+
 ## Hardware
 
 - ESP32-C3 board with a 0.42" 72x40 SSD1306 OLED, like the common "ESP32-C3 OLED 0.42" boards
